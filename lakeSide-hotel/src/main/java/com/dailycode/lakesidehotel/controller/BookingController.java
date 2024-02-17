@@ -1,4 +1,4 @@
 package com.dailycode.lakesidehotel.controller;
 
-public class BookedRoomController {
+public class BookingController {
 }
